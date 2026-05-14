@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm DeeF! 👋
 
 I am a **1st-year Technical High School student** and an aspiring **Frontend Developer**. I focus on building clean, intuitive web applications and enjoy solving logical problems using JavaScript and Python.
 
@@ -6,13 +6,13 @@ I am a **1st-year Technical High School student** and an aspiring **Frontend Dev
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Programming**
+**Frontend & Programming**<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Tools & Environment**
+**Tools & Environment**<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -27,13 +27,6 @@ I am balancing my technical education with independent coding projects:
 
 ---
 
-### 📊 GitHub Stats
-
-![Your Stats](https://github-readme-stats.vercel.app/api?username=xDeeFx&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xDeeFx&layout=compact&theme=radical)
-
----
-
 ### ⚡ Beyond the Code
 
 When I'm not studying or coding, you can find me:
@@ -43,7 +36,7 @@ When I'm not studying or coding, you can find me:
 
 ---
 
-### 📫 Let's Connect
+### 📫 Contact me here ↓
 
 *   **Discord**: `deef222`
-*   **LinkedIn**: [Link to your profile]
+*   **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/filippawłowski)
