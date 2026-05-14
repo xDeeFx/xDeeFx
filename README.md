@@ -47,4 +47,4 @@ When I'm not studying or coding, you can find me:
 ### 📫 Contact me here ↓
 
 *   **Discord**: `deef222`
-*   **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/filippawłowski)
+*   **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/filippaw%C5%82owskidev/)
